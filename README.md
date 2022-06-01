@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunnegi1991
+- 👋 Hi, I’m Varun Negi
 - 👀 I’m interested in Java Core Programming
 - 🌱 I’m currently learning Java Core
 - 💞️ I’m looking to collaborate on Basic Java Projects
