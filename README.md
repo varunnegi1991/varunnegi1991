@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun Negi
-- 👀 I’m interested in Java Core Programming
-- 🌱 I’m currently learning Java Core
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Basic Java Projects
 - 📫 How to reach me @varunnegi1991
 
